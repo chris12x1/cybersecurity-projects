@@ -37,5 +37,7 @@ This email was classified as **malicious phishing** based on multiple authentica
 - Monitor for similar campaigns
 
 ## Evidence
-Artifacts supporting this analysis are stored in the `artifacts/` directory.  
-Sensitive information has been redacted to protect privacy.
+Artifacts for this incident are stored in:
+incident-response/artifacts/phishing-yahoo-storage/
+
+All sensitive information has been redacted.
